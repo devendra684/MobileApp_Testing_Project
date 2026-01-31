@@ -33,6 +33,24 @@
     "undici": "^6.23.0",
     "phin": "^3.7.1",
     "cross-spawn": "^7.0.6",
-    "body-parser": "^1.20.3"
+    "body-parser": "^1.20.3",
+    "lodash": "^4.17.21",
+    "fast-xml-parser": "^5.3.4",
+    "semver": "^6.3.1 || ^7.5.4",
+    "cookie": "^0.7.0",
+    "diff": "^8.0.3",
+    "js-yaml": "^3.14.2",
+    "es5-ext": "^0.10.64",
+    "brace-expansion": "^1.1.11",
+    "@babel/runtime": "^7.26.2",
+    "@babel/traverse": "^7.26.2",
+    "@babel/helpers": "^7.26.2",
+    "sha.js": "^2.4.12",
+    "cipher-base": "^1.0.6",
+    "pbkdf2": "^3.1.5",
+    "express": "^4.21.2",
+    "serialize-javascript": "^6.0.2",
+    "path-to-regexp": "^0.1.12 || ^1.9.0",
+    "ajv": "^8.17.1"
   }
 }
